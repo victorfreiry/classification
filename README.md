@@ -1,2 +1,3 @@
 # classification
-Machine learning models created and applyed to raw data.
+# created a few machine learning models to train, test and predict results.
+# used several libraries and classified data.
